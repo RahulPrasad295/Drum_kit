@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(196, 204, 211);
+    text-align: center;
+}
+h1{
+    font-size: 4rem;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #DA0463;
+    margin: 1% 0 0 0;
+}
+footer{
+    font-size: 2rem;
+    font-family: sans-serif;
+}
+.drum{
+    position: absolute;
+}
+
+
+/************** buttons starts ********************/
+
+.f{
+    font-size: 327%;
+    top: 76.25%;
+    left: 33.75%;
+    width: 4.25%;
+}
+
+.g{
+    font-size: 327%;
+    top: 76.25%;
+    left: 38.75%;
+    width: 4.25%;
+}
+
+.b{
+    font-size: 327%;
+    top: 76.25%;
+    left: 47.80%;
+    width: 4.25%;
+}
+
+.h{
+    font-size: 327%;
+    top: 76.25%;
+    right: 38.75%;
+    width: 4.25%;
+}
+
+.j{
+    font-size: 327%;
+    top: 76.25%;
+    right: 33.75%;
+    width: 4.25%;
+}
+
+.t{
+    font-size: 327%;
+    top: 22.25%;
+    left: 42.25%;
+    width: 4.25%;
+}
+
+.y{
+    font-size: 327%;
+    top: 22.25%;
+    right: 42.35%;
+    width: 4.25%;
+}
+
+/************** buttons ends ********************/
